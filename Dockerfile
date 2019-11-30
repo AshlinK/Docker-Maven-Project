@@ -1,6 +1,6 @@
 ﻿#Dockerfile to build an image which supports execution of Maven Project.
 FROM ubuntu
-MAINTAINER Tanmay Wadkar
+MAINTAINER Ashlin Karkada
 
 ENV FIREFOX_VERSION 45.0.2
 ENV CHROMEDRIVER_VERSION 78.0.3904.105
